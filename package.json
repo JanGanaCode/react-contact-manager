@@ -21,5 +21,18 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JanGanaCode/react-contact-manager.git"
+  },
+  "author": "Jan Gana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JanGanaCode/react-contact-manager/issues"
+  },
+  "homepage": "https://github.com/JanGanaCode/react-contact-manager#readme"
 }
