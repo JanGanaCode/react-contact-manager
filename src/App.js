@@ -8,7 +8,6 @@ import NotFound from './components/pages/NotFound';
 import AddContact from './components/contacts/AddContact';
 import EditContact from './components/contacts/EditContact';
 import Contacts from './components/contacts/Contacts';
-import  'bootstrap/dist/css/bootstrap.min.css';
 
 class App extends Component {
   render() {
